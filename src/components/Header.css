@@ -1,0 +1,23 @@
+.site-header {
+  width: 100%;
+  padding: 20px 40px;
+  background-color: #1a1a1a;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box; /* Garante que o padding não aumente a largura total */
+}
+
+.logo-container img {
+  height: 60px; /* Ajuste a altura conforme necessário */
+    width: auto; /* Mantém a proporção da imagem */
+}
+
+.logo-text {
+  font-family: 'Oswald', sans-serif; /* Usando a fonte de impacto */
+  font-size: 2.5rem;
+  color: #c0392b;
+  letter-spacing: 1.5px; /* Espaçamento entre as letras */
+  text-transform: uppercase;
+}

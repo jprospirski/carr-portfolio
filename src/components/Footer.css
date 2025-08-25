@@ -1,0 +1,18 @@
+.site-footer {
+  width: 100%;
+  padding: 30px 0;
+  background-color: #1a1a1a;
+  text-align: center;
+  color: #888;
+  margin-top: 60px; /* Empurra o rodapé para baixo */
+  box-sizing: border-box;
+}
+
+.site-footer p {
+  margin: 5px 0;
+}
+
+.signature {
+  font-style: italic;
+  color: #aaa;
+}

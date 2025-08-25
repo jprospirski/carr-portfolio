@@ -32,6 +32,36 @@ export const cars = [
     description: "Símbolo de liberdade e aventura, perfeita para viagens e histórias.",
     image: "/images/volkswagen-kombi.jpg"
   },
+  {
+    id: 8,
+    manufacturer: "Volkswagen",
+    model: "Gol GTI",
+    price: "50.000",
+    year: 1994,
+    motor: "2.0L AP",
+    description: "O primeiro carro nacional com injeção eletrônica, um ícone esportivo.",
+    image: "/images/volkswagen-gol-gti.jpg"
+  },
+  {
+    id: 9,
+    manufacturer: "Volkswagen",
+    model: "Passat Pointer",
+    price: "40.000",
+    year: 1988,
+    motor: "1.8L AP",
+    description: "Versão esportiva do Passat que marcou os anos 80 com seu design e performance.",
+    image: "/images/volkswagen-passat.jpg"
+  },
+  {
+    id: 10,
+    manufacturer: "Volkswagen",
+    model: "Jetta GLI",
+    price: "230.000",
+    year: 2024,
+    motor: "2.0L Turbo",
+    description: "O sedã esportivo que combina elegância com a performance de um GTI.",
+    image: "/images/volkswagen-jetta.jpg"
+  },
 
   // Ford
   {
